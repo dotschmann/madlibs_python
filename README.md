@@ -1,2 +1,2 @@
 # madlibs_python
-word game for creating short story
+Word game for creating short story.
