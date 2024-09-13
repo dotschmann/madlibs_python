@@ -22,24 +22,24 @@ g = ["nervös", "neugierig", "aufgeregt"]
 h = ["ruhig", "mysteriös", "lebendig"] 
 i = ["dunkle", "hohe", "elegante"]
 j = ["mutig", "entspannt", "beschwingt"]
+
 m = randNum()
-print(m)
 print(f"Der '{a[m]}' Max ging an einem '{b[m]}' Morgen in den Wald.") 
+
 m = randNum()
-print(m)
 print(f"Er trug seinen '{c[m]}' Rucksack und summte ein '{d[m]}' Lied.")
+
 m = randNum()
-print(m)
 print(f"Plötzlich hörte er ein '{e[m]}' Geräusch.")
+
 m = randNum()
-print(m)
 print(f"Max blieb stehen, drehte sich um und sah ein '{f[m]}' Tier, das zwischen den Bäumen verschwand.")
+
 m = randNum()
-print(m)
 print(f"Obwohl er etwas '{g[m]}' war, beschloss er, weiterzugehen.")
+
 m = randNum()
-print(m)
 print(f"Der Wald war '{h[m]}', und die Bäume warfen '{i[m]}' Schatten auf den Weg.")
+
 m = randNum()
-print(m)
 print(f"Max fühlte sich '{j[m]}' und setzte seine Wanderung fort.")
